@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # first_lab
 
-1. making changes to the file
+
 =======
 # LAB1 - MLOps (IE-7374) 
 
