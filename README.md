@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # first_lab
 
+This is first git lab for mlops course
 
 =======
 # LAB1 - MLOps (IE-7374) 
